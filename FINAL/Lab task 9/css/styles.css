@@ -1,0 +1,62 @@
+
+
+
+
+body{
+  background: url(../background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+table,td{text-align:center;}
+
+
+
+
+@media screen 
+  and (min-device-width: 340px) 
+  and (max-device-width: 400px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+    
+
+}
+
+
+
+@media screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+    
+    
+
+}
+
+
+
+
+
+@media screen 
+  and (min-device-width: 600px) 
+  and (max-device-width: 768px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    
+
+
+
+}
+
+
+
+@media screen 
+  and (min-device-width: 769px) 
+  and (max-device-width: 1624px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+
+}
